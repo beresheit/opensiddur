@@ -14,7 +14,7 @@
     License: Public Domain (http://creativecommons.org/publicdomain/zero/1.0/).
     Description: Transform the XML code produced by running pdf2xml over Tanakh-JPS1917.pdf into 
                  something a bit more usable. Due to the limitations of the XML produced by pdf2xml, 
-                 some manual corrections to the generated XML will be required.
+                 some manual corrections to the generated XML may be required.
     </xsl:comment>
     
     <jps>
